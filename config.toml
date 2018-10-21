@@ -1,0 +1,4 @@
+baseURL = "https://brauser.io/"
+languageCode = "en-us"
+title = "About Robert"
+theme = "hugo-uilite"

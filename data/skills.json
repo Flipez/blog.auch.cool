@@ -1,0 +1,10 @@
+{
+  "title" : "Skills",
+  "skills" : {
+    "Ruby, Ruby on Rails" : "90",
+    "Javascript, jQuery" : "65",
+    "Webdesign" : "80",
+    "System Administration" : "85",
+    "Large Infrastructures" : "70"
+  }
+}
