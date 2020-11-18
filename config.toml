@@ -20,14 +20,19 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Mathe"
-url = "/tags/math"
+name = "Printer of Catan"
+url = "/tags/printer-of-catan/"
 weight = 3
+
+[[menu.main]]
+name = "Mathe"
+url = "/tags/math/"
+weight = 4
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [markup]
   [markup.tableOfContents]
