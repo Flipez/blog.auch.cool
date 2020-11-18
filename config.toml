@@ -10,27 +10,22 @@ disqusShortname = "example" # Used when comments is enabled. Cactus will use sit
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
+name = "writings"
 url = "/posts"
 weight = 2
 
 # [[menu.main]]
-# name = "Printer of Catan"
+# name = "printer of catan"
 # url = "/categories/settlers-of-catan/"
 # weight = 3
-# 
-# [[menu.main]]
-# name = "Mathe"
-# url = "/categories/math/"
-# weight = 4
 
 [[menu.main]]
-name = "CV"
+name = "cv"
 url = "https://github.com/Flipez/cv/raw/master/content-de.pdf"
 weight = 5
 

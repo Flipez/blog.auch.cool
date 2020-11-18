@@ -1,7 +1,7 @@
 ---
 title: 'Printer of Catan #1'
 date: 2020-11-11
-draft: "true"
+draft: true
 categories: ["Settlers of Catan"]
 ---
 
