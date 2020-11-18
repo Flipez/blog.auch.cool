@@ -1,7 +1,7 @@
 ---
 title: 'Mathematik Basics #1'
 date: 2020-10-08
-draft: true
+draft: "true"
 markup: "mmark"
 tags: ["math"]
 ---
