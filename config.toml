@@ -19,15 +19,15 @@ name = "Writings"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "Printer of Catan"
-url = "/tags/printer-of-catan/"
-weight = 3
-
-[[menu.main]]
-name = "Mathe"
-url = "/tags/math/"
-weight = 4
+# [[menu.main]]
+# name = "Printer of Catan"
+# url = "/categories/settlers-of-catan/"
+# weight = 3
+# 
+# [[menu.main]]
+# name = "Mathe"
+# url = "/categories/math/"
+# weight = 4
 
 [[menu.main]]
 name = "CV"
@@ -46,7 +46,7 @@ weight = 5
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
   mathjax = true
-  logo = "https://media-exp1.licdn.com/dms/image/C4E03AQFjBRjtGq8VvA/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=DlgLYRLA2aLiB1oYbJSRKP1SR9pXEzteUj68rsME63E"
+  logo = "/images/robert.jpg"
 
   # Home page settings
   description = "Working with a lot of servers in a datacenter. Also SRE & YAML-Engineer. Lost his heart to Ruby and likes photography, mountain biking, traveling and movies."

@@ -2,7 +2,7 @@
 title: 'Printer of Catan #1'
 date: 2020-11-11
 draft: "true"
-tags: ["printer-of-catan"]
+categories: ["Settlers of Catan"]
 ---
 
 I recently stumbled over the [Catan style boardgame 2.0](https://www.thingiverse.com/thing:2525047) from Dakanzla and thought it would be nice to print my own version of it.
