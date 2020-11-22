@@ -9,4 +9,4 @@ copying it to each article.
 
 I discovered [emgithub](https://emgithub.com) and wrote a little shortcode for it and you can find it [here](https://github.com/flipez/hugo-shortcodes/blob/master/emgithub.html).
 
-{{< emgithub user="flipez" repo="hugo-shortcodes" file="README.md" metadata=true >}}
+{{< emgithub user="flipez" repo="hugo-shortcodes" file="README.md" metadata="true" >}}
