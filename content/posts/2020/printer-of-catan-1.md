@@ -14,7 +14,6 @@ Doing this I noticed how hard it was do collect all information, find the right 
 Catan consists of a base game which is extendable from four up to six players. In addition there are several extentions which are made for four players and also have six player extensions.
 
 
-
 | Type   | Base Game | 6 Player Extension |
 |--------|:---------:|:------------------:|
 | Brick  | 3 | 2 |
