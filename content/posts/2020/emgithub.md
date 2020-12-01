@@ -1,7 +1,7 @@
 ---
 title: "Emgithub shortcode"
 date: 2020-11-22T17:50:46+01:00
-tags: ["hugo", "hugo-shortcode"]
+tags: ["hugo"]
 ---
 During the upcoming AoC I want to post some small posts about each little puzzle.
 In preparation of this I was looking for a way in hugo to include and highlight source code from GitHub without
