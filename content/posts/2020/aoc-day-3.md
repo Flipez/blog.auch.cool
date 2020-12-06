@@ -1,5 +1,5 @@
 ---
-title: "Advent of Code Day #2"
+title: "Advent of Code Day #3"
 date: 2020-12-03T07:24:23+01:00
 tags: ["aoc"]
 ---
