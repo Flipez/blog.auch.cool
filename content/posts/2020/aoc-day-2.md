@@ -14,10 +14,14 @@ In day 2 you were given a set of rules to be parsed first. The looked like this:
 
 Each line contains two numbers, a character and a password
 
+## Part 1
+
 In part 1 you have to check if the given character appears at least and at most times given by the numbers.
 Each password that matches this behavior is considered valid.
 
 {{< emgithub user="flipez" repo="advent-of-code" file="2020/day-2/part_1.rb" metadata="true" >}}
+
+## Part 2
 
 In part 2 you need to check if the given character is on *one* of the two given positions indicated by the numbers.
 {{< emgithub user="flipez" repo="advent-of-code" file="2020/day-2/part_2.rb" metadata="true" >}}
