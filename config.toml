@@ -31,11 +31,6 @@ weight = 2
 # url = "/categories/settlers-of-catan/"
 # weight = 3
 
-[[menu.main]]
-name = "cv"
-url = "https://github.com/Flipez/cv/raw/master/content-de.pdf"
-weight = 5
-
 [markup]
   [markup.tableOfContents]
     endLevel = 4
