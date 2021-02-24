@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "/home/robert"
 theme = "cactus"
 copyright = "Robert" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+disqusShortname = "brauser" # Used when comments is enabled. Cactus will use site title if not set
 googleAnalytics = "UA-65548659-3"
 
 [markup.goldmark.renderer]
@@ -61,7 +61,7 @@ weight = 2
   show_updated = true # default
 
   [params.comments]
-    enabled = false # default
+    enabled = true # default
     engine = "disqus" # more supported engines will be added.
 
   # the value of name should be an valid font awesome icon name (brands type)
