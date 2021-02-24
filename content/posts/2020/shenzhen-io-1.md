@@ -4,7 +4,7 @@ date: 2021-02-24
 tags: ["shenzhen-io"]
 ---
 
-A few days ago I tried out SHENZHEN I/O. It is some kind of puzzle game in which you need to solve little tasks using assembler and programming a microcontroller.
+A few days ago I tried out [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/). It is some kind of puzzle game in which you need to solve little tasks using assembler and programming a microcontroller.
 
 The solution is then ranked in three categories and compared to friends:
 
