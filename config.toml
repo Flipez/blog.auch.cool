@@ -1,6 +1,6 @@
 baseURL = "https://brauser.io"
 languageCode = "en-us"
-title = "Roberts Logbuch"
+title = "/home/robert"
 theme = "cactus"
 copyright = "Robert" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
@@ -12,7 +12,7 @@ unsafe = true
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "home"
+name = "cd ~"
 url = "/"
 weight = 1
 
@@ -48,9 +48,9 @@ weight = 2
   # Home page settings
   description = "Working with a lot of servers in a datacenter. Also SRE & YAML-Engineer. Lost his heart to Ruby and likes photography, mountain biking, traveling and movies."
   mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
+  showAllPostsOnHomePage = true # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
+  tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/flipez" # title link for projects list
 
