@@ -1,7 +1,6 @@
 ---
 title: 'Printer of Catan #1'
 date: 2021-02-27
-draft: true
 categories: ["Settlers of Catan"]
 ---
 ![Filament 1](/images/header.jpg)
