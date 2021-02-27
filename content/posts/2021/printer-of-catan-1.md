@@ -7,7 +7,7 @@ categories: ["Settlers of Catan"]
 
 I recently stumbled over the [Catan style boardgame 2.0](https://www.thingiverse.com/thing:2525047) from Dakanzla and thought it would be nice to print my own version of it.
 
-Doing this I noticed how hard it was do collect all information, find the right models for the version I wanted and finally printing it. Therefore I am writing this post helping others to create their version of Catan.
+Doing this I noticed how hard it was to collect all information, find the right models for the version I wanted and finally printing it. Therefore I am writing this post helping others to create their version of Catan.
 
 This is an ongoing series of posts during the building/printing of the game and is likely to change. While new blog posts will cover the process I'll keep the specs in this post up to date when I change a color or similiar.
 
