@@ -7,7 +7,7 @@ categories: ["Settlers of Catan"]
 
 I recently stumbled over the [Catan style boardgame 2.0](https://www.thingiverse.com/thing:2525047) from Dakanzla and thought it would be nice to print my own version of it.
 
-Doing this I noticed how hard it was do collect all information, find the right models for the version of wanted and finally printing it. Therefore I am writing this post helping others to create their version of Catan.
+Doing this I noticed how hard it was do collect all information, find the right models for the version I wanted and finally printing it. Therefore I am writing this post helping others to create their version of Catan.
 
 This is an ongoing series of posts during the building/printing of the game and is likely to change. While new blog posts will cover the process I'll keep the specs in this post up to date when I change a color or similiar.
 
@@ -17,7 +17,7 @@ Catan consists of a base game which is extendable from four up to six players. I
 
 ## The Parts
 
-The biggest difference is that Catan is shipped with a frame and the printed version uses tiles only. Therefore you need to add more water then you would with the paper frame. All other resources can be taken 1:1 from the original game. The following gives you a quick overview:
+The biggest difference is that Catan is shipped with a frame and the printed version uses tiles only. Therefore you need to add more water than you would with the paper frame. All other resources can be taken 1:1 from the original game. The following gives you a quick overview:
 
 
 | Type   | Base Game | 6 Player Extension | Total |
@@ -38,7 +38,7 @@ The biggest difference is that Catan is shipped with a frame and the printed ver
 
 ## The Colors
 
-Let's start with the most difficult part: colors. Generally you need to find the colors that fit your needs most. You can simpley print all tiles in the same color and then paint them all the way you want if you are into that. Personally I am not that used into painting stuff so I took another approach: I picked base colors where I though they would fit the resource most and then only paint the highlights.
+Let's start with the most difficult part: colors. Generally you need to find the colors that fit your needs most. You can simply print all tiles in the same color and then paint them all the way you want if you are into that. Personally I am not that used into painting stuff so I took another approach: I picked base colors where I though they would fit the resource most and then only paint the highlights.
 
 But unfortunately it is not that easy to pick the right colors from pictures on the internet, so this was quite a journey.
 

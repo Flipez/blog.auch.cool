@@ -26,10 +26,10 @@ name = "advent of code"
 url = "/tags/aoc/"
 weight = 2
 
-# [[menu.main]]
-# name = "printer of catan"
-# url = "/categories/settlers-of-catan/"
-# weight = 3
+[[menu.main]]
+name = "printer of catan"
+url = "/categories/settlers-of-catan/"
+weight = 3
 
 [markup]
   [markup.tableOfContents]
