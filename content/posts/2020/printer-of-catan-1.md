@@ -1,13 +1,16 @@
 ---
 title: 'Printer of Catan #1'
-date: 2020-11-11
+date: 2021-02-27
 draft: true
 categories: ["Settlers of Catan"]
 ---
+![Filament 1](/images/header.jpg)
 
 I recently stumbled over the [Catan style boardgame 2.0](https://www.thingiverse.com/thing:2525047) from Dakanzla and thought it would be nice to print my own version of it.
 
 Doing this I noticed how hard it was do collect all information, find the right models for the version of wanted and finally printing it. Therefore I am writing this post helping others to create their version of Catan.
+
+This is an ongoing series of posts during the building/printing of the game and is likely to change. While new blog posts will cover the process I'll keep the specs in this post up to date when I change a color or similiar.
 
 ## The Basics
 
@@ -39,3 +42,39 @@ The biggest difference is that Catan is shipped with a frame and the printed ver
 Let's start with the most difficult part: colors. Generally you need to find the colors that fit your needs most. You can simpley print all tiles in the same color and then paint them all the way you want if you are into that. Personally I am not that used into painting stuff so I took another approach: I picked base colors where I though they would fit the resource most and then only paint the highlights.
 
 But unfortunately it is not that easy to pick the right colors from pictures on the internet, so this was quite a journey.
+
+> How it started
+![Filament 1](/images/photo_2021-02-27_20-57-44.jpg)
+
+> How it's going
+![Filament 2](/images/photo_2021-02-27_20-57-50.jpg)
+
+
+### Tiles
+
+At the moment I use the following colors for the tiles:
+
+| Type   | Inner Color | Outer Color |
+|--------|-------------|-------------|
+| Brick  | EuMakers Orange Brick | EuMakers Orange Brick |
+| Desert | Fillamentum Mukha | Fillamentum Mukha |
+| Ore    | Extrudr Anthracite | Extrudr Anthracite |
+| Wheat  | Eumakers Tangerine Orange | Eumakers Tangerine Orange |
+| Wood   | 3dJake Green | Extrudr Brown |
+| Wool   | Eumakers Pastel Green | Extrudr White |
+| Water  | Eumakers Blue / Extrudr Blue | Eumakers Blue / Extrudr Blue |
+
+### Player
+
+For the playes I tried to pick colors which are not similiar to the ones I used for the normal game tiles. In a later iteration I switched the outer border of whool to white, therefore I'll see if I have to switch the white player color.
+
+![Filament 2](/images/photo_2021-02-27_19-17-25.jpg)
+
+| Player | Color |
+|--------|-------|
+| 1 | Extrudr White |
+| 2 | Extrudr Black |
+| 3 | Extrudr Hellfire Red |
+| 4 | Extrudr Turquoise |
+| 5 | Fillamentum Lilac |
+| 6 | Fillamentum Orange Orange |
