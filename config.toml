@@ -70,6 +70,7 @@ weight = 3
     username = "flipez"
     repository = "brauser.io"
     branch = "master"
+    redirect_base = "https://auch.cool"
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
