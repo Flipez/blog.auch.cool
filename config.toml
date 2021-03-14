@@ -39,12 +39,12 @@ weight = 3
 
 [params]
 
-  colortheme = "classic" # dark, light, white, or classic
+  colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
   mathjax = true
   logo = "/images/robert.jpg"
-  css = ["css/theme-switcher.css"]
+  css = ["css/comments.css"]
 
   # Home page settings
   description = "Working with a lot of servers in a datacenter. Also SRE & YAML-Engineer. Lost his heart to Ruby and likes photography, mountain biking, traveling and movies."
