@@ -62,8 +62,14 @@ weight = 3
   show_updated = true # default
 
   [params.comments]
-    enabled = true # default
+    enabled = false # default
     engine = "disqus" # more supported engines will be added.
+
+  [params.staticman]
+    endpoint = "https://staticman.auch.cool/v3/entry/github"
+    username = "flipez"
+    repository = "brauser.io"
+    branch = "master"
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
