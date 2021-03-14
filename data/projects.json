@@ -19,6 +19,11 @@
       "name":"gl",
       "url":"https://github.com/Flipez/gl",
       "desc":"Environment sensible GitLab CLI"
+    },
+    {
+      "name":"🚀lang",
+      "url":"https://github.com/Flipez/rocket-lang",
+      "desc":"Interpreter in Go"
     }
   ]
 }
