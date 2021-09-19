@@ -2,7 +2,6 @@
 title: "Shenzhen I/O #3 - Diagnostic Pulse Generator"
 date: 2021-03-18
 tags: ["shenzhen-io"]
-draft: true
 ---
 
 Another day another Shenzhen I/O puzzle.
