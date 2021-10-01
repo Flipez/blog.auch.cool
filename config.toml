@@ -17,19 +17,25 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "writings"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
 name = "advent of code"
 url = "/tags/aoc/"
 weight = 2
 
 [[menu.main]]
+name = "book list"
+url = "books"
+weight = 3
+
+[[menu.main]]
 name = "printer of catan"
 url = "/categories/settlers-of-catan/"
-weight = 3
+weight = 4
+
+[[menu.main]]
+name = "writings"
+url = "/posts"
+weight = 5
+
 
 [markup]
   [markup.tableOfContents]
