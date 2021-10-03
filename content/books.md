@@ -14,5 +14,6 @@ Below you can find a unsorted list I've read and enjoyed:
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) by Ashlee Vance
 - [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, George Spafford
 - [Permanent Record ](https://www.goodreads.com/book/show/46223297-permanent-record) by Edward Snowden
+- [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works) by Eric Schmidt and Jonathan Rosenberg
 
 If you think I missed a really good one, let me know :)
