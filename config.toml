@@ -23,7 +23,7 @@ weight = 2
 
 [[menu.main]]
 name = "book list"
-url = "books"
+url = "/books"
 weight = 3
 
 [[menu.main]]
