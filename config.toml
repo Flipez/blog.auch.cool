@@ -5,6 +5,7 @@ theme = "cactus"
 copyright = "Robert" # cactus will use title if copyright is not set
 disqusShortname = "brauser" # Used when comments is enabled. Cactus will use site title if not set
 googleAnalytics = "UA-65548659-3"
+enableGitInfo = true
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -17,7 +18,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "advent of code"
+name = "aoc"
 url = "/tags/aoc/"
 weight = 2
 
@@ -36,6 +37,10 @@ name = "writings"
 url = "/posts"
 weight = 5
 
+[[menu.main]]
+name = "rss"
+url = "/index.xml"
+weight = 6
 
 [markup]
   [markup.tableOfContents]

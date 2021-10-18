@@ -23,3 +23,5 @@ Currently I am reading:
 - [1984](https://www.goodreads.com/book/show/56704789-1984) by George Orwell
 
 If you think I missed a really good one, let me know :)
+
+{{< lastmod >}}
