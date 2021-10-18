@@ -19,21 +19,6 @@
       "name":"🚀lang",
       "url":"https://github.com/Flipez/rocket-lang",
       "desc":"Interpreter in Go"
-    },
-    {
-      "name":"Uwe",
-      "url":"https://github.com/Herzmut-Games/uwe",
-      "desc":"Game developed at the 2019s Hetzner Game Jam"
-    },
-    {
-      "name":"Scrap Race",
-      "url":"https://kjarrigan.itch.io/scrap-race",
-      "desc":"Game developed for the 35th Godot Wild Jam"
-    },
-    {
-      "name":"Arnold",
-      "url":"https://flipez.itch.io/arnold",
-      "desc":"Game developed for the 37th Godot Wild Jam"
     }
   ]
 }
