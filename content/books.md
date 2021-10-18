@@ -17,4 +17,9 @@ Below you can find a unsorted list I've read and enjoyed:
 - [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works) by Eric Schmidt and Jonathan Rosenberg
 - [fritz gegen Goliath](https://www.goodreads.com/book/show/58990454-fritz-gegen-goliath) by Mirco Wolf Wiegert
 
+Currently I am reading:
+
+- [Die kleinste gemeinsame Wirklichkeit](https://www.goodreads.com/book/show/56951280-die-kleinste-gemeinsame-wirklichkeit-wahr-falsch-plausibel-die-gr-t) by Mai Thi Nguyen-Kim
+- [1984](https://www.goodreads.com/book/show/56704789-1984) by George Orwell
+
 If you think I missed a really good one, let me know :)
