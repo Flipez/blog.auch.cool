@@ -16,11 +16,13 @@ Below you can find a unsorted list I've read and enjoyed:
 - [Permanent Record ](https://www.goodreads.com/book/show/46223297-permanent-record) by Edward Snowden
 - [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works) by Eric Schmidt and Jonathan Rosenberg
 - [fritz gegen Goliath](https://www.goodreads.com/book/show/58990454-fritz-gegen-goliath) by Mirco Wolf Wiegert
+- [Die kleinste gemeinsame Wirklichkeit](https://www.goodreads.com/book/show/56951280-die-kleinste-gemeinsame-wirklichkeit-wahr-falsch-plausibel-die-gr-t) by Mai Thi Nguyen-Kim
 
 Currently I am reading:
 
-- [Die kleinste gemeinsame Wirklichkeit](https://www.goodreads.com/book/show/56951280-die-kleinste-gemeinsame-wirklichkeit-wahr-falsch-plausibel-die-gr-t) by Mai Thi Nguyen-Kim
-- [1984](https://www.goodreads.com/book/show/56704789-1984) by George Orwell
+- [Seven Languages in Seven Weeks](https://www.goodreads.com/book/show/7912517-seven-languages-in-seven-weeks) by Bruce A. Tate
+- [Projekt Lightspeed: Der Weg zum BioNTech-Impfstoff - und zu einer Medizin von morgen](https://www.goodreads.com/book/show/58885013-projekt-lightspeed) by Joe Miller, Uğur Şahin, Özlem Türeci
+- ⏸️ [1984](https://www.goodreads.com/book/show/56704789-1984) by George Orwell
 
 If you think I missed a really good one, let me know :)
 
