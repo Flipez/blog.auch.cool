@@ -4,16 +4,16 @@
       "HUGO_VERSION": "0.81.0"
     }
   },
-  "rewrites": [
+  "redirect": [
     {
-      "source": "/(.*)",
+      "source": "/",
       "has": [
         {
           "type": "host",
           "value": "spezi.auch.cool"
         }
       ],
-      "destination": "/spezi/"
+      "destination": "https://auch.cool/spezi/"
     }
   ]
 }
