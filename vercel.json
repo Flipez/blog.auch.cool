@@ -3,6 +3,18 @@
     "env": {
       "HUGO_VERSION": "0.81.0"
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "*",
+      "has": [
+        {
+          "type": "host",
+          "value": "spezi.auch.cool"
+        }
+      ],
+      "destination": "/spezi/"
+    }
+  ]
 }
 
