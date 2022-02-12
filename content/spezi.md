@@ -44,51 +44,51 @@ If you have access to one of the unavailable ones or know some that are missing 
 
 ## Spezi
 
-| Name | Status | Source |
-| ---- | ------ | ------ |
-| Rapp Spezi | Unavailable | Rapp |
-| Mezzo-Mix Zero | In Progress |
-| Vita Cola Mix | Unavailable |
-| Big Cola Mix | In Progress | Edeka |
+| Name                    | Status      | Source |
+| ----------------------- | ----------- | ------ |
 | Bad Brambacher Cola-Mix | Unavailable |
+| Big Cola Mix            | In Progress | Edeka  |
+| Mezzo-Mix Zero          | In Progress |
+| Rapp Spezi              | Unavailable | Rapp   |
+| Vita Cola Mix           | Unavailable |
 
 ## Cola
 
-| Name | Status | Source |
-| ---- | ------ | ------ |
-| Pepsi Light | In Progress |
-| Coca-Cola Light | Unavailable |
-| Coca-Cola Zero | In Progress |
+| Name                            | Status      | Source                       |
+| ------------------------------- | ----------- | ---------------------------- |
+| 9 Springe Cola                  | Unavailable |
+| Afri-cola                       | Unavailable |
+| Afri-cola ohne zucker           | Unavailable |
+| Bad Brambacher Cola             | Unavailable |
+| Big Cola                        | In Progress | Edeka                        |
+| Club Cola                       | Unavailable | Rewe ?                       |
+| Coca-Cola Life                  | Unavailable |
+| Coca-Cola Light                 | Unavailable |
+| Coca-Cola Zero                  | In Progress |
 | Coca-Cola Zero without coffeine | In Progress |
-| Coca-Cola Life | Unavailable |
-| Dr. Pepper Zero | In Progress |
-| Ubuntu Cola | Unavailable |
-| Vita Cola | Unavailable |
-| Vita Cola Pur | Unavailable |
-| Vita Cola Zuckerfrei | Unavailable |
-| Green Cola | Unavailable |
-| Royal Crown Cola | Unavailable |
-| afri-cola | Unavailable |
-| afri-cola ohne zucker | Unavailable |
-| Mio Mio Cola | Unavailable |
-| River Cola | Unavailable | Aldi Nord |
-| River Cola 0% Zucker | Unavailable | Aldi Nord |
-| Gut & Günstig Cola | In Progress | Edeka |
-| Gut & Günstig Cola Light | In Progress | Edeka |
-| K-Classic Cola | Unavailable | Kaufland |
-| Freeway Cola | In Progress | Lidl |
-| Freeway Cola Light | In Progress | Lidl |
-| Now Black Cola | Unavailable |
-| Star Drink Cola | Unavailable | Netto Marken-Discount |
-| Star Drink Cola Light | Unavailable | Netto Marken-Discount |
-| Topstar Cola | In Progress | Aldi Sued |
-| Topstar Cola Light | In Progress | Aldi Sued |
-| Penny Cola | In Progress | Penny |
-| Penny Cola Stevia | In Progress | Penny |
-| ja! Cola | In Progress | Rewe |
-| Isis Bio Fresh Cola | Unavailable |
-| Club Cola | Unavailable | Rewe ? |
-| Premium Cola | Unavailable | Liebick Getränke Germering ? |
-| Big Cola | In Progress | Edeka |
-| 9 Springe Cola | Unavailable |
-| Bad Brambacher Cola | Unavailable |
+| Dr. Pepper Zero                 | In Progress |
+| Freeway Cola                    | In Progress | Lidl                         |
+| Freeway Cola Light              | In Progress | Lidl                         |
+| Green Cola                      | Unavailable |
+| Gut & Günstig Cola              | In Progress | Edeka                        |
+| Gut & Günstig Cola Light        | In Progress | Edeka                        |
+| Isis Bio Fresh Cola             | Unavailable |
+| Ja! Cola                        | In Progress | Rewe                         |
+| K-Classic Cola                  | Unavailable | Kaufland                     |
+| Mio Mio Cola                    | Unavailable |
+| Now Black Cola                  | Unavailable |
+| Penny Cola                      | In Progress | Penny                        |
+| Penny Cola Stevia               | In Progress | Penny                        |
+| Pepsi Light                     | In Progress |
+| Premium Cola                    | Unavailable | Liebick Getränke Germering ? |
+| River Cola                      | Unavailable | Aldi Nord                    |
+| River Cola 0% Zucker            | Unavailable | Aldi Nord                    |
+| Royal Crown Cola                | Unavailable |
+| Star Drink Cola                 | Unavailable | Netto Marken-Discount        |
+| Star Drink Cola Light           | Unavailable | Netto Marken-Discount        |
+| Topstar Cola                    | In Progress | Aldi Sued                    |
+| Topstar Cola Light              | In Progress | Aldi Sued                    |
+| Ubuntu Cola                     | Unavailable |
+| Vita Cola                       | Unavailable |
+| Vita Cola Pur                   | Unavailable |
+| Vita Cola Zuckerfrei            | Unavailable |
