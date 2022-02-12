@@ -8,6 +8,11 @@ tags: []
 
 A completely subjective test of different Spezi and Cola brands that I got my hands on. Let me now if one is missing!
 
+#### Jump To
+* [Spezi Map](#spezi-map)
+* [Cola Map](#cola-map)
+* [Confirmed Missing](#confirmed-missing)
+
 #### Ratings
 
 *Sweetness* describes the taste and how sweet it tastes, how much sugar is noticeable and how sticky is the drink without directly refering the amount of sugar in the drink - **2.5 out of 5** is my personal fav here.
@@ -30,3 +35,26 @@ Last but not least, *Sugar* is refering directly to the amount of sugar per 100m
 Currently WIP.
 
 <div class="flourish-embed flourish-radar" data-src="visualisation/8550283"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Confirmed Missing
+
+List of Cola and Spezi that is already known to be missing. Some of them might be not available to me (yet), others are still in the pipeline.
+
+If you have access to one of the unavailable ones or know some that are missing from the list let me know!
+
+## Spezi
+
+| Name | Status |
+| ---- | ------ |
+| Rapp Spezi | Unavailable |
+| Mezzo-Mix Zero | In Progress |
+
+## Cola
+
+| Name | Status |
+| ---- | ------ |
+| Pepsi Light | In Progress |
+| Coca-Cola Zero | In Progress |
+| Coca-Cola Zero without coffeine | In Progress |
+| Dr. Pepper Zero | In Progress |
+| Ubuntu Cola | Unavailable |
