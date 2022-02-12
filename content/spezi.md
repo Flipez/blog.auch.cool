@@ -44,11 +44,13 @@ If you have access to one of the unavailable ones or know some that are missing 
 
 ## Spezi
 
-| Name | Status |
-| ---- | ------ |
-| Rapp Spezi | Unavailable |
+| Name | Status | Source |
+| ---- | ------ | ------ |
+| Rapp Spezi | Unavailable | Rapp |
 | Mezzo-Mix Zero | In Progress |
 | Vita Cola Mix | Unavailable |
+| Big Cola Mix | In Progress | Edeka |
+| Bad Brambacher Cola-Mix | Unavailable |
 
 ## Cola
 
@@ -85,5 +87,8 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Penny Cola Stevia | In Progress | Penny |
 | ja! Cola | In Progress | Rewe |
 | Isis Bio Fresh Cola | Unavailable |
-| Club Cola | Unavailable |
-| Premium Cola | Unavailable |
+| Club Cola | Unavailable | Rewe ? |
+| Premium Cola | Unavailable | Liebick Getränke Germering ? |
+| Big Cola | In Progress | Edeka |
+| 9 Springe Cola | Unavailable |
+| Bad Brambacher Cola | Unavailable |
