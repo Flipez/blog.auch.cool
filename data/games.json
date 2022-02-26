@@ -19,6 +19,11 @@
       "name":"Solar Valley",
       "url":"https://flipez.itch.io/solar-valley",
       "desc":"Game developed for the 38th Godot Wild Jam"
+    },
+    {
+      "name":"Sticktorio",
+      "url":"https://flipez.itch.io/sticktorio",
+      "desc":"Game developed for the 42th Godot Wild Jam"
     }
   ]
 }

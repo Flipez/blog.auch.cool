@@ -80,13 +80,6 @@ weight = 6
     enabled = false # default
     engine = "disqus" # more supported engines will be added.
 
-  [params.staticman]
-    endpoint = "https://staticman.auch.cool/v3/entry/github"
-    username = "flipez"
-    repository = "brauser.io"
-    branch = "master"
-    redirect_base = "https://auch.cool"
-
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
@@ -95,9 +88,6 @@ weight = 6
   [[params.social]]
     name = "twitter"
     link = "https://twitter.com/Was1NicerDude"
-  [[params.social]]
-    name = "instagram"
-    link = "https://instagram.com/flipez"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/robert-müller-9429001b6/"

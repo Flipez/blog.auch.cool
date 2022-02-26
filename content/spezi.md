@@ -32,8 +32,6 @@ Last but not least, *Sugar* is refering directly to the amount of sugar per 100m
 
 # Cola Map
 
-Currently WIP.
-
 <div class="flourish-embed flourish-radar" data-src="visualisation/8550283"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Confirmed Missing
@@ -56,12 +54,11 @@ If you have access to one of the unavailable ones or know some that are missing 
 
 | Name                            | Status      | Source                       |
 | ------------------------------- | ----------- | ---------------------------- |
-| 9 Springe Cola                  | Unavailable |
-| Afri-cola                       | Unavailable |
+| 9 Springe Cola                  | In Progress |
 | Afri-cola ohne zucker           | Unavailable |
 | Bad Brambacher Cola             | Unavailable |
 | Big Cola                        | In Progress | Edeka                        |
-| Club Cola                       | Unavailable | Rewe ?                       |
+| Club Cola                       | In Progress |
 | Coca-Cola Life                  | Unavailable |
 | Coca-Cola Light                 | Unavailable |
 | Coca-Cola Zero                  | In Progress |
@@ -70,7 +67,6 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Freeway Cola                    | In Progress | Lidl                         |
 | Freeway Cola Light              | In Progress | Lidl                         |
 | Green Cola                      | Unavailable |
-| Gut & Günstig Cola              | In Progress | Edeka                        |
 | Gut & Günstig Cola Light        | In Progress | Edeka                        |
 | Isis Bio Fresh Cola             | Unavailable |
 | Ja! Cola                        | In Progress | Rewe                         |
@@ -89,6 +85,6 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Topstar Cola                    | In Progress | Aldi Sued                    |
 | Topstar Cola Light              | In Progress | Aldi Sued                    |
 | Ubuntu Cola                     | Unavailable |
-| Vita Cola                       | Unavailable |
+| Vita Cola                       | In Progress |
 | Vita Cola Pur                   | Unavailable |
 | Vita Cola Zuckerfrei            | Unavailable |
