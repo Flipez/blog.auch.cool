@@ -12,6 +12,7 @@ A completely subjective test of different Spezi and Cola brands that I got my ha
 * [Spezi Map](#spezi-map)
 * [Cola Map](#cola-map)
 * [Confirmed Missing](#confirmed-missing)
+* [Changelog](#changelog)
 
 #### Ratings
 
