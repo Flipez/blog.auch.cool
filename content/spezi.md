@@ -54,28 +54,19 @@ If you have access to one of the unavailable ones or know some that are missing 
 
 | Name                            | Status      | Source                       |
 | ------------------------------- | ----------- | ---------------------------- |
-| 9 Springe Cola                  | In Progress |
 | Afri-cola ohne zucker           | Unavailable |
 | Bad Brambacher Cola             | Unavailable |
 | Big Cola                        | In Progress | Edeka                        |
-| Club Cola                       | In Progress |
 | Coca-Cola Life                  | Unavailable |
 | Coca-Cola Light                 | Unavailable |
-| Coca-Cola Zero                  | In Progress |
-| Coca-Cola Zero without coffeine | In Progress |
-| Dr. Pepper Zero                 | In Progress |
-| Freeway Cola                    | In Progress | Lidl                         |
 | Freeway Cola Light              | In Progress | Lidl                         |
 | Green Cola                      | Unavailable |
 | Gut & Günstig Cola Light        | In Progress | Edeka                        |
 | Isis Bio Fresh Cola             | Unavailable |
-| Ja! Cola                        | In Progress | Rewe                         |
 | K-Classic Cola                  | Unavailable | Kaufland                     |
-| Mio Mio Cola                    | Unavailable |
 | Now Black Cola                  | Unavailable |
 | Penny Cola                      | In Progress | Penny                        |
 | Penny Cola Stevia               | In Progress | Penny                        |
-| Pepsi Light                     | In Progress |
 | Premium Cola                    | Unavailable | Liebick Getränke Germering ? |
 | River Cola                      | Unavailable | Aldi Nord                    |
 | River Cola 0% Zucker            | Unavailable | Aldi Nord                    |
@@ -85,6 +76,27 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Topstar Cola                    | In Progress | Aldi Sued                    |
 | Topstar Cola Light              | In Progress | Aldi Sued                    |
 | Ubuntu Cola                     | Unavailable |
-| Vita Cola                       | In Progress |
 | Vita Cola Pur                   | Unavailable |
 | Vita Cola Zuckerfrei            | Unavailable |
+
+# Changelog
+- 13.03.22
+  - added ja! Cola
+  - added Freeway Cola
+  - added Springe Cola - Thanks Patrick!
+  - added Club Cola - Thanks Patrick!
+  - added Vita Cola - Thanks Patrick!
+
+- 06.03.22
+  - added Mio Mio Cola Zero
+  - added Coca Cola Zero
+  - added Coca Cola Zero koffeinfrei
+  - added Pepsi Max
+  - added Pepsi Light
+  - added Dr. Pepper Zero
+
+- 25.02.22
+  - added Gut & Günstig Cola
+  - added Döner Cola
+  - added The Real Cola by Booster
+  - added adfri cola
