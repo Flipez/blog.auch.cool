@@ -81,6 +81,9 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 # Changelog
+- 18.03.22
+  - added Auer Cola Mix - Thanks Joshi!
+  - added Paul Anderl Cola-Mix
 - 13.03.22
   - added ja! Cola
   - added Freeway Cola
