@@ -81,6 +81,11 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 # Changelog
+- 19.03.22
+  - added Mezzo Mix zero
+  - added Freeway Mixx Max
+  - added Freeway Cola Zero
+  - changed Community Cola Zuckerfrei rating from 3 to 4
 - 18.03.22
   - added Auer Cola Mix - Thanks Joshi!
   - added Paul Anderl Cola-Mix
