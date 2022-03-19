@@ -47,7 +47,6 @@ If you have access to one of the unavailable ones or know some that are missing 
 | ----------------------- | ----------- | ------ |
 | Bad Brambacher Cola-Mix | Unavailable |
 | Big Cola Mix            | In Progress | Edeka  |
-| Mezzo-Mix Zero          | In Progress |
 | Rapp Spezi              | Unavailable | Rapp   |
 | Vita Cola Mix           | Unavailable |
 
