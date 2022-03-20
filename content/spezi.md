@@ -80,6 +80,11 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 # Changelog
+- 20.03.22
+  - added Eichbaum Braumeisters Cola-Mix - Thanks Jochen!
+  - added alwa Limo Cola-Mix - Thanks Jochen!
+  - added Teinacher Genuss Cola-Mix - Thanks Jochen!
+  - added Ensinger Cola-Mix Limonade - Thanks Jochen!
 - 19.03.22
   - added Mezzo Mix zero
   - added Freeway Mixx Max
