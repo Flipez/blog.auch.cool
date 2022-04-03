@@ -80,6 +80,8 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 # Changelog
+- 03.04.22
+  - added Paulaner Spezi Zero
 - 20.03.22
   - added Eichbaum Braumeisters Cola-Mix - Thanks Jochen!
   - added alwa Limo Cola-Mix - Thanks Jochen!
