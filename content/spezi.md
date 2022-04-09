@@ -80,6 +80,14 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 # Changelog
+- 09.04.22
+  - added Adelholzener Cola Mix
+  - added Maisacher Cola-Mix
+  - added Paul Anderl’s Schwupp Cola-Mix
+  - added Petrusquelle Cola-Mix
+  - added Gut und günstig Cola Mix
+  - added ja! Cola-Mix
+  - updated sugar normalization from min 6.8 / max 11 to min 2.3 / max 12
 - 03.04.22
   - added Paulaner Spezi Zero
 - 20.03.22
