@@ -84,7 +84,7 @@ If you have access to one of the unavailable ones or know some that are missing 
   - added Gluggerla Cola-Mix
   - added Nawinta Cola-Mix
   - added Günni’s Cola-Mix
-  - added afri cola ohne zucker
+  - added afri cola ohne zucker - Thanks Jochen!
   - added now black cola
   - added Jarritos Mexican Cola
   - added Fentimans Curiosity Cola
