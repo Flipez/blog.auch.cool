@@ -80,6 +80,10 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 # Changelog
+- 23.04.22
+  - added Gluggerla Cola-Mix
+  - added Nawinta Cola-Mix
+  - added Günni’s Cola-Mix
 - 09.04.22
   - added Adelholzener Cola Mix
   - added Maisacher Cola-Mix
