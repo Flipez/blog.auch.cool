@@ -43,9 +43,8 @@ We wanted a *medium-rare* steak with a tendency to *rare* and therefore configur
 
 For our taste it was almost *medium* so next time we will lower either the time or the temperature.
 
-<p>
-  <img src="../images/1.jpg" width=350 style="float: left;" />
-  <img src="../images/2.jpg" width=350 style="float: left;"/>
-  <img src="../images/3.jpg" width=350 style="float: left;"/>
-  <img src="../images/4.jpg" width=350 style="float: left;"/>
-</p>
+
+![](img/sous-vide/1.jpg)
+![](img/sous-vide/2.jpg)
+![](img/sous-vide/3.jpg)
+![](img/sous-vide/4.jpg)

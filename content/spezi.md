@@ -3,18 +3,9 @@ title: "🥤 spezi & cola"
 date: 2021-10-01T07:24:23+01:00
 tags: []
 ---
-
-# 🥤 spezi & cola
-
 A completely subjective test of different Spezi and Cola brands that I got my hands on. Let me now if one is missing!
 
-#### Jump To
-* [Spezi Map](#spezi-map)
-* [Cola Map](#cola-map)
-* [Confirmed Missing](#confirmed-missing)
-* [Changelog](#changelog)
-
-#### Ratings
+## Ratings
 
 *Sweetness* describes the taste and how sweet it tastes, how much sugar is noticeable and how sticky is the drink without directly refering the amount of sugar in the drink - **2.5 out of 5** is my personal fav here.
 
@@ -27,21 +18,21 @@ Depending on the type and also how it's delivered, *Fizz*, which means how carbo
 Last but not least, *Sugar* is refering directly to the amount of sugar per 100ml and is recalculated to a scale of 1 to 5 while 1 being the drink with least sugar and 5 being the drink with most sugar in it.
 
 ---
-# Spezi Map
+### Spezi Map
 
 <div class="flourish-embed flourish-radar" data-src="visualisation/8493603"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Cola Map
+### Cola Map
 
 <div class="flourish-embed flourish-radar" data-src="visualisation/8550283"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Confirmed Missing
+## Confirmed Missing
 
 List of Cola and Spezi that is already known to be missing. Some of them might be not available to me (yet), others are still in the pipeline.
 
 If you have access to one of the unavailable ones or know some that are missing from the list let me know!
 
-## Spezi
+### Spezi
 
 | Name                    | Status      | Source |
 | ----------------------- | ----------- | ------ |
@@ -51,7 +42,7 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Rapp Spezi              | Unavailable | Rapp   |
 | Vita Cola Mix           | Unavailable |
 
-## Cola
+### Cola
 
 | Name                            | Status      | Source                       |
 | ------------------------------- | ----------- | ---------------------------- |
@@ -80,7 +71,7 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Pur                   | Unavailable |
 | Vita Cola Zuckerfrei            | Unavailable |
 
-# Changelog
+## Changelog
 - 13.03.22
   - added ja! Cola
   - added Freeway Cola
