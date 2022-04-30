@@ -9,12 +9,12 @@ Today we're doing another Shenzhen I/O puzzle.
 As this is the second task, the puzzle is again quite simple.
 As a reminder, we do have the following command documentation:
 
-![Docs](/images/shenzhen-io-0.png)
+![Docs](/img/shenzhen/shenzhen-io-0.png)
 
 The task is to amplify a signal.
 As we can see from the verification tab the output has to be higher than the input - twice as high, to be precise.
 
-![Puzzle 2](/images/shenzhen-io-2.png)
+![Puzzle 2](/img/shenzhen/shenzhen-io-2.png)
 
 This seems fairly easy, we just need to multiply the input signal with `2` and output the result.
 If we take a closer look on our commands we can find a `mul` operator which can take one argument.
