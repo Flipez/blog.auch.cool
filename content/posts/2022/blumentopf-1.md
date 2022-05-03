@@ -48,6 +48,6 @@ Wired together, the system looked like this:
 
 With this setup, it was possible to "flood" the smaller box with water, let it sit there for a few minutes to give the plants enough time to suck in some water and then pump the rest of the water back into the reservoir. Since the plants were elevated they never stand in water for a long period of time.
 
-As you can probably guess from the pictures this while thing was very chunky and also not very beautiful. It stayed a couple of weeks on my desk and watered some plants but was abandoned after some time, because of the reasons above.
+As you can probably guess from the pictures the whole thing was very chunky and also not very beautiful. It stayed a couple of weeks on my desk and watered some plants but was abandoned after some time, because of the reasons above.
 
 Due to some movements and other sideprojects, things were delayed for some time and continuted in 2020, see the next iteration in [the next post](/posts/2022/blumentopf-2).
