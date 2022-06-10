@@ -32,17 +32,16 @@ List of Cola and Spezi that is already known to be missing. Some of them might b
 
 If you have access to one of the unavailable ones or know some that are missing from the list let me know!
 
-### Spezi
+## Spezi
 
 | Name                    | Status      | Source |
 | ----------------------- | ----------- | ------ |
 | Bad Brambacher Cola-Mix | Unavailable |
 | Big Cola Mix            | In Progress | Edeka  |
-| Mezzo-Mix Zero          | In Progress |
 | Rapp Spezi              | Unavailable | Rapp   |
 | Vita Cola Mix           | Unavailable |
 
-### Cola
+## Cola
 
 | Name                            | Status      | Source                       |
 | ------------------------------- | ----------- | ---------------------------- |
@@ -71,13 +70,45 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Pur                   | Unavailable |
 | Vita Cola Zuckerfrei            | Unavailable |
 
-## Changelog
+# Changelog
+
 - 10.06.22
   - added Land L!mo - Thanks Marvin!
   - added Frische Mische - Thanks Marvin!
   - added Kuchlbauer Cola~Mix - Thanks Juliane!
   - added Pöllinger Cola Mix - Thanks Juliane!
   - added Landbrauerei Cola-Mix - Thanks Juliane!
+- 23.04.22
+  - added Gluggerla Cola-Mix
+  - added Nawinta Cola-Mix
+  - added Günni’s Cola-Mix
+  - added afri cola ohne zucker - Thanks Jochen!
+  - added now black cola
+  - added Jarritos Mexican Cola
+  - added Fentimans Curiosity Cola
+- 09.04.22
+  - added Adelholzener Cola Mix
+  - added Maisacher Cola-Mix
+  - added Paul Anderl’s Schwupp Cola-Mix
+  - added Petrusquelle Cola-Mix
+  - added Gut und günstig Cola Mix
+  - added ja! Cola-Mix
+  - updated sugar normalization from min 6.8 / max 11 to min 2.3 / max 12
+- 03.04.22
+  - added Paulaner Spezi Zero
+- 20.03.22
+  - added Eichbaum Braumeisters Cola-Mix - Thanks Jochen!
+  - added alwa Limo Cola-Mix - Thanks Jochen!
+  - added Teinacher Genuss Cola-Mix - Thanks Jochen!
+  - added Ensinger Cola-Mix Limonade - Thanks Jochen!
+- 19.03.22
+  - added Mezzo Mix zero
+  - added Freeway Mixx Max
+  - added Freeway Cola Zero
+  - changed Community Cola Zuckerfrei rating from 3 to 4
+- 18.03.22
+  - added Auer Cola Mix - Thanks Joshi!
+  - added Paul Anderl Cola-Mix
 - 13.03.22
   - added ja! Cola
   - added Freeway Cola
