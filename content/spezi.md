@@ -72,6 +72,12 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Zuckerfrei            | Unavailable |
 
 ## Changelog
+- 10.06.22
+  - added Land L!mo - Thanks Marvin!
+  - added Frische Mische - Thanks Marvin!
+  - added Kuchlbauer Cola~Mix - Thanks Juliane!
+  - added Pöllinger Cola Mix - Thanks Juliane!
+  - added Landbrauerei Cola-Mix - Thanks Juliane!
 - 13.03.22
   - added ja! Cola
   - added Freeway Cola
