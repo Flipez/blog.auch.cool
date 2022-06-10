@@ -32,7 +32,7 @@ List of Cola and Spezi that is already known to be missing. Some of them might b
 
 If you have access to one of the unavailable ones or know some that are missing from the list let me know!
 
-## Spezi
+### Spezi
 
 | Name                    | Status      | Source |
 | ----------------------- | ----------- | ------ |
@@ -41,7 +41,7 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Rapp Spezi              | Unavailable | Rapp   |
 | Vita Cola Mix           | Unavailable |
 
-## Cola
+### Cola
 
 | Name                            | Status      | Source                       |
 | ------------------------------- | ----------- | ---------------------------- |
@@ -70,7 +70,7 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Vita Cola Pur                   | Unavailable |
 | Vita Cola Zuckerfrei            | Unavailable |
 
-# Changelog
+## Changelog
 
 - 10.06.22
   - added Land L!mo - Thanks Marvin!
