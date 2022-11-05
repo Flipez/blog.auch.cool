@@ -36,7 +36,6 @@ If you have access to one of the unavailable ones or know some that are missing 
 
 | Name                    | Status      | Source |
 | ----------------------- | ----------- | ------ |
-| Bad Brambacher Cola-Mix | Unavailable |
 | Big Cola Mix            | In Progress | Edeka  |
 | Rapp Spezi              | Unavailable | Rapp   |
 | Vita Cola Mix           | Unavailable |
@@ -45,17 +44,13 @@ If you have access to one of the unavailable ones or know some that are missing 
 
 | Name                            | Status      | Source                       |
 | ------------------------------- | ----------- | ---------------------------- |
-| Afri-cola ohne zucker           | Unavailable |
-| Bad Brambacher Cola             | Unavailable |
 | Big Cola                        | In Progress | Edeka                        |
 | Coca-Cola Life                  | Unavailable |
 | Coca-Cola Light                 | Unavailable |
 | Freeway Cola Light              | In Progress | Lidl                         |
 | Green Cola                      | Unavailable |
-| Gut & Günstig Cola Light        | In Progress | Edeka                        |
 | Isis Bio Fresh Cola             | Unavailable |
 | K-Classic Cola                  | Unavailable | Kaufland                     |
-| Now Black Cola                  | Unavailable |
 | Penny Cola                      | In Progress | Penny                        |
 | Penny Cola Stevia               | In Progress | Penny                        |
 | Premium Cola                    | Unavailable | Liebick Getränke Germering ? |
@@ -68,10 +63,26 @@ If you have access to one of the unavailable ones or know some that are missing 
 | Topstar Cola Light              | In Progress | Aldi Sued                    |
 | Ubuntu Cola                     | Unavailable |
 | Vita Cola Pur                   | Unavailable |
-| Vita Cola Zuckerfrei            | Unavailable |
 
 ## Changelog
 
+- 05.11.22
+  - added Eizbach Cryztal Cola
+  - added Penny Cola
+  - added afri cola ohne zucker
+  - added Gut und günstig Cola Zero
+  - added Gut und günstig Cola light
+  - added fritz kola super zero
+  - added Vita Cola Original zuckerfrei
+  - added sunfit Cola Mix
+  - added Pöllinger Cola Mix
+  - added Kuchlbauer Cola~Mix
+  - added Landbrauerei Cola-Mix
+  - added Bad Brambacher Cola Mix
+  - added Hoellen Sprudel Cubana
+  - added Almdudler Spezi
+  - added deit zuckerfrei Cola Mix
+  - added XXL Limonade Cola Mix
 - 10.06.22
   - added Land L!mo - Thanks Marvin!
   - added Frische Mische - Thanks Marvin!
