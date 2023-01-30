@@ -11,38 +11,43 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "cd ~"
-url = "/"
-weight = 1
+  name = "cd ~"
+  url = "/"
+  weight = 1
 
 [[main]]
-name = "aoc"
-url = "/tags/aoc/"
-weight = 2
+  name = "aoc"
+  url = "/tags/aoc/"
+  weight = 2
 
 [[main]]
-name = "📚 book list"
-url = "/books"
-weight = 3
+  name = "📚 book list"
+  url = "/books"
+  weight = 3
 
 [[main]]
-name = "printer of catan"
-url = "/categories/settlers-of-catan/"
-weight = 4
+  name = "🥨 munich"
+  url = "/munich/"
+  weight = 4
 
 [[main]]
-name = "🥤 spezi & cola"
-url = "/spezi"
-weight = 5
+  name = "🥤 spezi & cola"
+  url = "/spezi"
+  weight = 5
 
-[[footer]]
-name = "RSS Feed"
-url = "/index.xml"
-weight = 6
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+[[footer]]
+  name = "RSS Feed"
+  url = "/index.xml"
+  weight = 6
 
 [[footer]]
   name = "All Tags"
