@@ -1,6 +1,7 @@
 # Servus 👋
 
-This is Robert's space. Working with a lot of servers in a hosting company as SRE, GitLab Magican & Meme Integrator.
+
+This is Robert's space. Worked with a lot of servers in a hosting company, acted as GitLab Magican & Meme Integrator, tinkering on stuff that runs the internet now.
 Has both a stupid and pragmatic solution for every problem and likes them to be scaleable and generalized.
 Lost his heart to Ruby, likes photography, mountain biking and movies.
 
