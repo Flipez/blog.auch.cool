@@ -1,6 +1,7 @@
 ---
 title: "TIL: 'dot_clean' to remove macOS specific files"
 date: 2023-04-07T09:00:23+01:00
+image: https://picsum.photos/seed/picsum/1400/500
 tags: ["til", "macos"]
 ---
 When switching between multiple systems including macOS you may have notices thoses strange looking files starting with `._`.
