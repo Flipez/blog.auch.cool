@@ -66,4 +66,4 @@ Danach bestätigen wir noch einmal mit **&lt;Continue&gt;**, der Raspberry sollt
 
 ### Willkommen in der Welt des Raspbian ;)
 
-Weiterführend kann [hier](https://brauser.io/2013/03/18/raspberry-pi-remote "Raspberry Pi - Fernzugriff einrichten") der Fernzugriff eingerichtet werden.
+Weiterführend kann [hier](/blog/2013/03-18-raspberry-pi-remote "Raspberry Pi - Fernzugriff einrichten") der Fernzugriff eingerichtet werden.

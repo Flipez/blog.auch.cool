@@ -3,7 +3,7 @@ date: '2013-03-18'
 title: Raspberry Pi - Fernsteuern
 ---
 
-Im ersten Beitrag ([hier](https://brauser.io/2013/03/17/raspberry-pi-schritte "Raspberry Pi - Die ersten Schritte")) haben wir uns bereits ein Raspbian installiert.
+Im ersten Beitrag ([hier](/blog/2013/03-17-raspberry-pi-schritte "Raspberry Pi - Die ersten Schritte")) haben wir uns bereits ein Raspbian installiert.
 Da man nun auch die Größe des Raspberry nutzen möchte und ihn nicht immer an einem Monitor mit Maus und Tastatur betreiben möchte, richten wir im folgendem Beitrag den Fernzugriff ein.
 
 Als ersten suchen wir für die Pakete nach neuen Versionen und installieren diese falls vorhanden ganz einfach per
