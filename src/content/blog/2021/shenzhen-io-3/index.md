@@ -12,7 +12,7 @@ Another day another Shenzhen I/O puzzle.
 > For this project you will need to make use of *conditional execution*.
 > Please continue your study of the language reference. 
 
-As a refresher, checkout the Language Reference Card [in the first post](/blog/2021/shenzhen-io-1/).
+As a refresher, checkout the Language Reference Card [in the first post](/posts/2021/shenzhen-io-1/).
 
 This puzzle is more complicated because the in- and output does differ from the puzzles before:
 
