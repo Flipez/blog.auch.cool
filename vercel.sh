@@ -1,2 +1,2 @@
-amazon-linux-extras install golang1.11
+amazon-linux-extras install golang1.19
 hugo --enableGitInfo -b $BASE_URL
