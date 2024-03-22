@@ -1,7 +1,6 @@
 ---
 title: "Building Arnold - Joining a Game Jam"
 date: 2021-09-19
-image: https://images.unsplash.com/photo-1605142806312-9ba7fa5cd0fd?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2FtZXx8fHx8fDE3MDE3OTUzNjk&ixlib=rb-4.0.3&q=80&w=1400
 tags: ["godot", "game-jam"]
 draft: true
 ---

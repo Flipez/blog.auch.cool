@@ -1,149 +1,64 @@
-# Pages placed under these sections will be shown on homepage and archive page.
-mainSections = ["posts"]
-# Output page's full content in RSS.
-rssFullContent = true
-favicon = "/favicon.png"
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+colorScheme = "cherry"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
 
 [footer]
-since = 2013
-customText = ""
+showAppearanceSwitcher = true
+showScrollToTop = true
 
-[dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+enableSearch = true
+enableCodeCopy = true
 
-[sidebar]
-emoji = ""
-subtitle = "Sometimes I write about cool stuff"
+# mainSections = ["section1", "section2"]
+# robots = ""
 
-[sidebar.avatar]
-enabled = true
-local = true
-src = "img/robert.jpg"
+[homepage]
+  layout = "page" # valid options: page, profile, custom
+  showRecent = true
 
 [article]
-math = false
-readingTime = true
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  #sharingLinks = ["twitter", "reddit", "email"]
 
-[article.license]
-enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+[list]
+  showBreadcrumbs = true
+  showSummary = false
+  showTableOfContents = false
+  groupByYear = true
 
-## Widgets
-[[widgets.homepage]]
-type = "search"
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
 
-# [[widgets.homepage]]
-# type = "archives"
-# 
-# [widgets.homepage.params]
-# limit = 5
+[taxonomy]
+  showTermCount = true
 
-[[widgets.homepage]]
-type = "categories"
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
 
-[widgets.homepage.params]
-limit = 10
-
-[[widgets.homepage]]
-type = "tag-cloud"
-
-[widgets.homepage.params]
-limit = 10
-
-[[widgets.page]]
-type = "toc"
-
-[opengraph.twitter]
-site = ""
-card = "summary_large_image"
-
-[defaultImage.opengraph]
-enabled = false
-local = false
-src = ""
-
-[colorScheme]
-toggle = true
-default = "auto"
-
-[imageProcessing.cover]
-enabled = true
-
-[imageProcessing.content]
-enabled = true
-
-## Comments
-[comments]
-enabled = true
-provider = "utterances"
-
-[comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
-
-[comments.utterances]
-repo = "flipez/brauser.io"
-issueTerm = "pathname"
-label = "utterances"
-
-[comments.remark42]
-host = ""
-site = ""
-locale = ""
-
-[comments.vssue]
-platform = ""
-owner = ""
-repo = ""
-clientId = ""
-clientSecret = ""
-autoCreateIssue = false
-
-[comments.waline]
-serverURL = ""
-lang = ""
-visitor = ""
-avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
-requiredMeta = ["name", "email", "url"]
-placeholder = ""
-
-[comments.waline.locale]
-admin = "Admin"
-
-[comments.twikoo]
-envId = ""
-region = ""
-path = ""
-lang = ""
-
-[comments.cactus]
-defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
-serverName = "cactus.chat"
-siteName = ""
-
-[comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
-reactionsEnabled = 1
-emitMetadata = 0
-
-[comments.gitalk]
-owner = ""
-admin = ""
-repo = ""
-clientID = ""
-clientSecret = ""
-
-[comments.cusdis]
-host = ""
-id = ""
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""

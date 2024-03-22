@@ -1,7 +1,6 @@
 ---
 title: "Advent of Code Day #1 - RocketLang Edition"
 date: 2022-12-01T08:00:23+01:00
-image: https://picsum.photos/id/403/1300/400
 tags: ["aoc"]
 ---
 
