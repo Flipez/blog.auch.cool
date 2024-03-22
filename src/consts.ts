@@ -102,8 +102,6 @@ export const ITEMS_PER_PAGE = 5;
 export const NAVIGATION = [
     {href: '/', title: 'Home'},
     {href: '/blog', title: 'Blog'},
-    {href: '/spezi', title: 'Spezi'},
-    {href: '/munich', title: 'Munich'},
-    {href: '/books', title: 'Books'},
+    {href: '/projects', title: 'Projects'},
     {href: '/about', title: 'About'},
 ]
