@@ -1,3 +1,5 @@
+.env
+.env.build
 /public/
-.astro
-node_modules/
+/resources/_gen/
+.hugo_build.lock
