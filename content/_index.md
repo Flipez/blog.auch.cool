@@ -1,15 +1,22 @@
 # Servus 👋
 
+I am tinkering on stuff that runs the internet at [Mozilla](https://mozilla.org).
 
-This is Robert's space. Worked with a lot of servers in a hosting company, acted as GitLab Magican & Meme Integrator, tinkering on stuff that runs the internet now.
-Has both a stupid and pragmatic solution for every problem and likes them to be scaleable and generalized.
-Lost his heart to Ruby, likes photography, mountain biking and movies.
+Previously I broke things in parallel on a lot of servers in a
+[hosting company](https://hetzner.com). I have both unconventional and practical
+solutions for every challenge, with a preference for scalability and general applicability.
+I do temporary things that live forever occasionally too.
+
+Lost my heart to Ruby, love photography, mountain biking and “catching the latest flicks” - as the cool kids say across the pond.
+
+Find me on [GitHub](https://github.com/flipez),
+[LinkedIn](https://www.linkedin.com/in/mueller-r/),
+[Letterboxd](https://letterboxd.com/Flipez/) and my photos [self-hosted](https://photos.auch.cool) and
+on [Instagram](https://www.instagram.com/rueller.mobert).
 
 ## Projects
 
-- [Vox Pupuli Tasks](https://github.com/voxpupuli/vox-pupuli-tasks): Community tool to manage open PRs for puppet modules
 - [kickr.me](https://github.com/kickr-me): enhanced foosball table
-- [gl](https://github.com/Flipez/gl): Environment sensible GitLab CLI
 - [🚀🇱🅰🆖](https://github.com/Flipez/rocket-lang): Interpreter in Go
 
 ## Games
