@@ -16,12 +16,12 @@ There is no tutorial. All you have is a 50 sheet documentation about the chips a
 
 In the beginning of the manual there is a quick overview over some of the available commands. I'll go through some of them as we use them.
 
-![Puzzle 1](img/shenzhen/shenzhen-io-0.png)
+![Puzzle 1](/img/shenzhen/shenzhen-io-0.png)
 
 
 In the first puzzle the task is to match a given pattern with two LEDs.
 
-![Puzzle 1](img/shenzhen/shenzhen-io-1.png)
+![Puzzle 1](/img/shenzhen/shenzhen-io-1.png)
 
 The first LED (active) is already done as an example:
 

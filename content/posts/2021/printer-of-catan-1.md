@@ -3,7 +3,7 @@ title: 'Printer of Catan #1'
 date: 2021-02-27
 categories: ["Settlers of Catan"]
 ---
-![Filament 1](img/catan/header.jpg)
+![Filament 1](/img/catan/header.jpg)
 
 I recently stumbled over the [Catan style boardgame 2.0](https://www.thingiverse.com/thing:2525047) from Dakanzla and thought it would be nice to print my own version of it.
 
@@ -44,11 +44,11 @@ But unfortunately it is not that easy to pick the right colors from pictures on 
 
 > How it started
 
-![Filament 1](img/catan/photo_2021-02-27_20-57-44.jpg)
+![Filament 1](/img/catan/photo_2021-02-27_20-57-44.jpg)
 
 > How it's going
 
-![Filament 2](img/catan/photo_2021-02-27_20-57-50.jpg)
+![Filament 2](/img/catan/photo_2021-02-27_20-57-50.jpg)
 
 
 ### Tiles
@@ -69,7 +69,7 @@ At the moment I use the following colors for the tiles:
 
 For the playes I tried to pick colors which are not similiar to the ones I used for the normal game tiles. In a later iteration I switched the outer border of whool to white, therefore I'll see if I have to switch the white player color.
 
-![Filament 2](img/catan/photo_2021-02-27_19-17-25.jpg)
+![Filament 2](/img/catan/photo_2021-02-27_19-17-25.jpg)
 
 | Player | Color |
 |--------|-------|

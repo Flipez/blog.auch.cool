@@ -44,7 +44,7 @@ We wanted a *medium-rare* steak with a tendency to *rare* and therefore configur
 For our taste it was almost *medium* so next time we will lower either the time or the temperature.
 
 
-![](img/sous-vide/1.jpg)
-![](img/sous-vide/2.jpg)
-![](img/sous-vide/3.jpg)
-![](img/sous-vide/4.jpg)
+![](/img/sous-vide/1.jpg)
+![](/img/sous-vide/2.jpg)
+![](/img/sous-vide/3.jpg)
+![](/img/sous-vide/4.jpg)

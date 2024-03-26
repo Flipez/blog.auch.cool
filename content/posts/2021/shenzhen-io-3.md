@@ -15,7 +15,7 @@ As a refresher, checkout the Language Reference Card [in the first post](/posts/
 
 This puzzle is more complicated because the in- and output does differ from the puzzles before:
 
-![Puzzle 2](img/shenzhen/shenzhen-io-3.png)
+![Puzzle 2](/img/shenzhen/shenzhen-io-3.png)
 
 Maybe you noticed that in-/output are not synchronous. This means, if we have an input signal, we do not necessarily have a output signal and vice versa.
 

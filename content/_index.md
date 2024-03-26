@@ -1,5 +1,3 @@
-# Servus 👋
-
 I am tinkering on stuff that runs the internet at [Mozilla](https://mozilla.org).
 
 Previously I broke things in parallel on a lot of servers in a
