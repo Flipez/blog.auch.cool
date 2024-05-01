@@ -14,6 +14,16 @@
         }
       ],
       "destination": "https://auch.cool/spezi/"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "enten.auch.cool"
+        }
+      ],
+      "destination": "https://auch.cool/enten/"
     }
   ]
 }
