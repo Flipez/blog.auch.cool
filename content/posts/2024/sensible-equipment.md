@@ -3,7 +3,6 @@ title: "Crossing borders with sensible photo equipment"
 date: 2024-04-22T10:56:23-10:00
 tags: ["photography"]
 showTableOfContents: false
-draft: true
 ---
 I got dragged into the rabbit hole of taking analog photos about a year ago and enjoying it since.
 
