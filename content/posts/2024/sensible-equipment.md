@@ -3,7 +3,6 @@ title: "Crossing borders with sensible photo equipment"
 date: 2024-04-22T10:56:23-10:00
 tags: ["photography"]
 showTableOfContents: false
-draft: true
 ---
 I got dragged into the rabbit hole of taking analog photos about a year ago and enjoying it since.
 
@@ -48,6 +47,8 @@ The safest way to make sure your film does arrive undamaged is to ask for a hand
 As for everything in life: Be nice and try to create as little extra effort for the security staff as possible. If you are polite they usually treat you the same way.
 
 I always carry my film rolls in a small transparent bag and only with the film rolls themselves without the additional plastic tube. This allows the security staff to directly recognize what's in the bag and what your intentions are. Also, they either sample some rolls or inspect all of them with a drug test. Carrying them all in one bag makes it easier to just hand them the bag and they'll take care of the rest.
+
+![](/img/sensible-equipment/1.jpg "Transparent bag with film rolls")
 
 The FAA explicitly grants passengers in the US this right in [their regulations (108.17)](https://www.govinfo.gov/content/pkg/CFR-1998-title14-vol2/pdf/CFR-1998-title14-vol2-sec108-17.pdf). I also never had any issues with flights within Europe. After asking nicely for a check without scanning this was done almost always without any further discussions.
 
