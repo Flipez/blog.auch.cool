@@ -4,9 +4,7 @@ date: 2022-05-01T09:00:23+01:00
 tags: ["plants", "automation", "water"]
 ---
 
-{{< alert >}}
 This post misses a lot of technical details as I reconstruct the changes and implementations out of my memory and my image archive. The latest Blumentopf iteration will contain all technical details you need.
-{{< /alert >}}
 
 In 2020 I remembered a [Self-Watering Planter](https://www.thingiverse.com/thing:903411) I printed a few years ago and thought it would be nice to reuse this one to replace my chunky prototype with a cleaner and more aesthetic version.
 
