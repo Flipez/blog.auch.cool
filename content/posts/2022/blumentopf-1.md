@@ -4,9 +4,7 @@ date: 2022-05-01T08:00:23+01:00
 tags: ["plants", "automation", "water"]
 ---
 
-{{< alert >}}
 This post misses a lot of technical details as I reconstruct the changes and implementations out of my memory and my image archive. The latest Blumentopf iteration will contain all technical details you need.
-{{< /alert >}}
 
 Four years ago I started working on a never ending side project with which I wanted to automate the watering of some of my plants.
 
@@ -28,7 +26,6 @@ Then, we 3D-printed an adapter for the tubes:
 
 In detail this involved a Master Brick, a voltage converter to convert 12V to 5V for operating the modules (pumps need 12V), two Voltage/Current Bricklets to mease the current of the pumps - the idea here was to detect then the water reservoir was empty -  a Dual Relais Bricklet and some [TSSS Brushless Water Pumps](https://www.amazon.de/dp/B07RLDPWGZ).
 
-{{< mermaid >}}
 graph TB;
 A[Rasbperry Pi Zero + brickd]-->B[Master Brick];
 B-->C[Dual Relais]
@@ -39,7 +36,6 @@ E-->F[Pump 1]
 C-->G[Relay 2]
 G-->H[Current Bricklet]
 H-->I[Pump 2]
-{{< /mermaid >}}
 
 Wired together, the system looked like this:
 

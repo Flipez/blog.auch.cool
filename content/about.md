@@ -1,3 +1,8 @@
+---
+title: "Robert"
+date: 2021-10-01T07:24:23+01:00
+hidemeta: true
+---
 I am tinkering on stuff that runs the internet at [Mozilla](https://mozilla.org).
 
 Previously I broke things in parallel on a lot of servers in a
