@@ -1,5 +1,5 @@
 ---
-title: "Crossing borders with sensible photo equipment"
+title: "Fly with Sensible Photo Equipment"
 date: 2024-04-22T10:56:23-10:00
 tags: ["photography"]
 showTableOfContents: false

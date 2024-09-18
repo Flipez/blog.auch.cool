@@ -1,5 +1,5 @@
 ---
-title: "TIL: 'dot_clean' to remove macOS specific files"
+title: "TIL: 'dot_clean' in macOS"
 date: 2023-04-07T09:00:23+01:00
 tags: ["til", "macos"]
 ---

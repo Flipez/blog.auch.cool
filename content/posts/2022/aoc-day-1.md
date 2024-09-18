@@ -1,5 +1,5 @@
 ---
-title: "Advent of Code Day #1 - RocketLang Edition"
+title: "Advent of Code - RocketLang Edition"
 date: 2022-12-01T08:00:23+01:00
 tags: ["aoc"]
 ---
