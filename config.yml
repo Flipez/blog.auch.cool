@@ -124,9 +124,9 @@ menu:
       name: Books
       url: /books
       weight: 3
-    - pre: 🥨
-      name: Munich
-      url: /munich/
+    - pre: 🍷
+      name: Food & Drinks
+      url: /food/
       weight: 4
     - pre: 🥤
       name: Spezi & Cola
