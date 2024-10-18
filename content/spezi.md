@@ -4,6 +4,12 @@ date: 2021-10-01T07:24:23+01:00
 hidemeta: true
 tags: []
 ---
+
+---
+Test the beta version of this page [here](https://the-spezi-project.vercel.app/)
+
+---
+
 A completely subjective test of different Spezi and Cola brands that I got my hands on. Let me now if one is missing!
 
 ## Ratings
