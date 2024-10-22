@@ -117,13 +117,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: About
+    - pre: 🦰
+      name: About me
       url: /about/
       weight: 1
-    - pre: 📚
-      name: Books
-      url: /books
-      weight: 3
     - pre: 🍷
       name: Food & Drinks
       url: /food/
