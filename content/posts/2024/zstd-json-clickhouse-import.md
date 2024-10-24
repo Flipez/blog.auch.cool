@@ -5,19 +5,24 @@ tags: ["clickhouse", "mvg"]
 showtoc: true
 ---
 As part of the [MVG Observatory Project](https://mvg.auch.cool) I collect departures of the Munich public transport.
-These departures are stored on the filesystem in the following structure:
+Top level is the date and the subfolder includes multiple stations (with their id as the folder name).
+Each station includes lots of single files.
+Every day the top level folder gets archived into a zstd compressed file.
+To analyse the data, the content has to be imported into Clickhouse.
 
 ```
 20240615/
 ├── de:09162:1
 │   ├── 1718409659_body.json
 │   ├── 1718409659_meta.json
+│   ├── ...
+├── de:09166:1
+│   ├── 1718409734_body.json
+│   ├── 1718409734_meta.json
+│   ├── ...
+├── ...
 ```
 
-Top level is the date and the subfolder includes multiple stations (with their id as the folder name).
-Each station includes lots of single files.
-Every day the top level folder gets archived into a zstd compressed file.
-To analyse the data, the content has to be imported into Clickhouse.
 
 ## Status Quo: mvg-analyser
 
