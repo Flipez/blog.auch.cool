@@ -1,5 +1,7 @@
 github.com/adityatelange/hugo-PaperMod v0.0.0-20240915081152-a2eb47bb4b80 h1:IfLPokx2zpHroEDwNUXsXTxiG93dg/nc86djmWXS4SM=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20240915081152-a2eb47bb4b80/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20250524045829-5a4651783fa9 h1:vSOmKCogP6L4SV2eO7A2zgO7sdml4Ta7tZSd6ccOTmQ=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20250524045829-5a4651783fa9/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/jpanther/congo/v2 v2.5.2 h1:cSM6cnBfbsSN9uYIKXjnyudZDWK+OWWVPVlFmkQQSGE=
 github.com/jpanther/congo/v2 v2.5.2/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
 github.com/jpanther/congo/v2 v2.7.5 h1:NNXOSLyYqEvXYINPRT/axmFBAW2lGOtrSoq8IZwX+Hc=
