@@ -1,6 +1,5 @@
 baseURL: "https://brauser.io"
 title: /home/robert
-paginate: 5
 
 enableRobotsTXT: true
 buildDrafts: false
