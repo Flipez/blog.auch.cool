@@ -1,4 +1,4 @@
-module github.com/flipez/brauser.io
+module github.com/flipez/blog.auch.cool
 
 go 1.18
 

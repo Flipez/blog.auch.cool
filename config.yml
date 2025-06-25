@@ -1,4 +1,4 @@
-baseURL: "https://brauser.io"
+baseURL: "https://auch.cool"
 title: /home/robert
 
 enableRobotsTXT: true
@@ -126,7 +126,7 @@ menu:
       weight: 4
     - pre: 🥤
       name: Spezi & Cola
-      url: /spezi
+      url: https://spezi.auch.cool
       weight: 5
     - pre: 📷
       name: Photos
