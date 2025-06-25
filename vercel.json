@@ -1,19 +1,19 @@
 {
   "build": {
     "env": {
-      "HUGO_VERSION": "0.124.1"
+      "HUGO_VERSION": "0.147.9"
     }
   },
   "redirects": [
     {
-      "source": "/",
+      "source": "/spezi",
       "has": [
         {
           "type": "host",
-          "value": "spezi.auch.cool"
+          "value": "auch.cool"
         }
       ],
-      "destination": "https://auch.cool/spezi/"
+      "destination": "https://spezi.auch.cool/"
     },
     {
       "source": "/",
