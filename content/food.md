@@ -12,6 +12,7 @@ Places to eat or drink that I enjoyed and found above average.
 
 ## Germany
 - Munich
+  - [Azuki](https://azukimunich.com/) | Restaurant
   - [Bar GARÇON](https://bar-garcon.de/) | Bar
   - [Call Soul](https://callsoul-breakingbar.de/) | Bar
   - [Pacific Times](http://www.pacific-times.de/) | Bar
