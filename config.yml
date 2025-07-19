@@ -125,8 +125,8 @@ menu:
       url: /food/
       weight: 4
     - pre: 🥤
-      name: Spezi & Cola
-      url: https://spezi.auch.cool
+      name: Spezi
+      url: https://spezidb.de
       weight: 5
     - pre: 📷
       name: Photos
