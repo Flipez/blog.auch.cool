@@ -1,4 +1,12 @@
 {
+  "headers": [
+    {
+      "source": "/.well-known/matrix/server",
+      "headers": [
+        { "key": "Content-Type", "value": "application/json" }
+      ]
+    }
+  ],
   "build": {
     "env": {
       "HUGO_VERSION": "0.147.9"
